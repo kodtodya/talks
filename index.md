@@ -25,11 +25,14 @@ As you get some glimpse about me from corporate training perspective, I am also 
 - Java-11+
 - Spring
 - Spring Boot
+- Spring Integration
 - Apache Camel
 - Apache ActiveMQ
 - Apache ActiveMQ Artemis
 - Apache Kafka
 - Apache ZooKeeper
+- RedHat AMQ
+- RedHat AMQ Streams
 - Red Hat Fuse - 7.x and 6.x
 - Behavior Driven Development(BDD) with Cucumber
 
