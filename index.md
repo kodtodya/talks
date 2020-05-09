@@ -74,6 +74,9 @@ Do you feel like you are always adding new tasks to your to-do list but never cr
 - Linus Torvalds
 ```
 
+## Feedback for Session 
+Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSczAliGRAghZdJhBojmpzGjTmRLEN-gxmGpOgY_SbxK7deSNA/viewform?usp=sf_link) to provide feedback.
+
 ## Contact Us to Schedule a Session 
 Want to hear more about how I can transform your IT skill set? Contact me today to schedule a session.
 
