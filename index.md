@@ -35,6 +35,8 @@ As you get some glimpse about me from corporate training perspective, I am also 
 - RedHat AMQ Streams
 - Red Hat Fuse - 7.x and 6.x
 - Behavior Driven Development(BDD) with Cucumber
+- Docker
+- Kubernetes
 
 ## Rich Skills-set that can help you to achieve your enterprise goals
 
@@ -43,7 +45,7 @@ As you get some glimpse about me from corporate training perspective, I am also 
  NoSQL Databases                        | MongoDB, Apache Cassandra                                                                  
  Messaging and JMS Brokers              | Apache ActiveMQ, Apache ActiveMQ Artemis, HornetQ, WebSphere MQ, Tibco EMS, Apache Kafka   
  Architectural Skills                   | Design Patterns                                                                            
- Cloud Skills                           | Red Hat OpenShift                                                                          
+ Cloud Skills                           | Red Hat OpenShift, Docker, Kubernetes                                                      
  Cloud-native frameworks                | Quarkus                                                                                    
  Distributed Systems Management         | Apache ZooKeeper, Apache Fabric                                                            
  Runtime Containers                     | Apache Karaf, Fuse container, Fabric container, A-MQ container                             
