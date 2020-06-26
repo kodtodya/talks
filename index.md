@@ -50,7 +50,7 @@ As you get some glimpse about me from corporate training perspective, I am also 
  Distributed Systems Management         | Apache ZooKeeper, Apache Fabric                                                            
  Runtime Containers                     | Apache Karaf, Fuse container, Fabric container, A-MQ container                             
  Logging Skills                         | Apache Log4j, Apache LogBack, Apache slf4j                                                 
- Middleware Integration Skills          | RedHat JBoss Fuse, RedHat JBoss EAP, RedHat JBoss A-MQ                                     
+ Middleware Integration Skills          | RedHat JBoss Fuse, RedHat JBoss EAP, RedHat JBoss A-MQ, Spring Integration                 
  Version Controlling Skills             | Git, Tortoise SVN, IBM ClearCase, BitBucket                                                
  Operating Systems Skills               | Red Hat Enterprise Linux-6+, CentOS-7+, Fedora-24+, Windows-X                              
  Unit & Automation Testing Skills       | Junit, Cucumber, Behavioral Driven Development, CodePro                                    
