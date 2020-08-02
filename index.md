@@ -40,22 +40,23 @@ As you get some glimpse about me from corporate training perspective, I am also 
 
 ## Rich Skills-set that can help you to achieve your enterprise goals
 
- Primary Programming Skills             | Core Java, Spring, Spring Boot, Apache Camel, Spring Batch, Apache Blueprint, Apache Maven 
- Database Skills                        | SQL, Oracle, HP-Vertica, Apache Derby                                                      
+ Primary Programming Skills             | Core Java(v8,v11), Spring, Spring Boot, Apache Camel, Apache Blueprint, Apache Maven, Spring Batch 
+ Database Skills                        | SQL, Oracle, Apache Derby, H2                                                      
  NoSQL Databases                        | MongoDB, Apache Cassandra                                                                  
  Messaging and JMS Brokers              | Apache ActiveMQ, Apache ActiveMQ Artemis, HornetQ, WebSphere MQ, Tibco EMS, Apache Kafka   
- Architectural Skills                   | Design Patterns                                                                            
+ Architectural Skills                   | Design Patterns and Micro-services                                                                            
  Cloud Skills                           | Red Hat OpenShift, Docker, Kubernetes                                                      
  Cloud-native frameworks                | Quarkus                                                                                    
  Distributed Systems Management         | Apache ZooKeeper, Apache Fabric                                                            
  Runtime Containers                     | Apache Karaf, Fuse container, Fabric container, A-MQ container                             
- Logging Skills                         | Apache Log4j, Apache LogBack, Apache slf4j                                                 
- Middleware Integration Skills          | RedHat JBoss Fuse, RedHat JBoss EAP, RedHat JBoss A-MQ, Spring Integration                 
+ Logging Skills                         | Elasticsearch, Kibana, Apache Log4j, Apache LogBack, Apache slf4j                         
+ Middleware Integration Skills          | RedHat JBoss Fuse, RedHat JBoss EAP, RedHat JBoss A-MQ, Spring Integration                   
  Version Controlling Skills             | Git, Tortoise SVN, IBM ClearCase, BitBucket                                                
- Operating Systems Skills               | Red Hat Enterprise Linux-6+, CentOS-7+, Fedora-24+, Windows-X                              
+ Operating Systems Skills               | Red Hat Enterprise Linux-6+, CentOS-7+, Fedora-24+, Ubuntu-19+, Windows-X                   
  Unit & Automation Testing Skills       | Junit, Cucumber, Behavioral Driven Development, CodePro                                    
  Data Mapping Skills                    | XML, JSON                                                                                  
- Other IDEs &amp; Troubleshooting Tools | IntelliJ, JBDS, Eclipse, IBM Integration Bus, Memory Analyzer Tool, Samura                 
+ Security Encryption Tools              | PGP                                                                                        
+ Other IDEs &amp; Troubleshooting Tools | IntelliJ, RedHat CodeReady Studio, Eclipse, IBM Integration Bus, Memory Analyzer Tool, Samurai                 
 
 For more details see [Work at GitHub Repository](https://github.com/kodtodya/).
 
