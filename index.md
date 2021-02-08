@@ -83,6 +83,6 @@ Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSczAliGRAghZdJhBojm
 ## Contact Us to Schedule a Session 
 Want to hear more about how I can transform your IT skill set? Contact me today to schedule a session.
 
-[kodtodya-talks](mailto:kodtodya.talks@gmail.com) | [+91-82-3737-9497](tel:+91-82-3737-9497)
+[kodtodya.talks@gmail.com](mailto:kodtodya.talks@gmail.com) | [+91-82-3737-9497](tel:+91-82-3737-9497)
 
 Baner, Pune, Maharashtra, India
