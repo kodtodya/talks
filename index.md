@@ -11,7 +11,7 @@ Hello from kodtodya-talks. I'm a coaching professional who is here to help you r
 
 ### Trusted Coaching Professional
 
-Hey, I am Avadhut and I have been working as a Corporate Trainer since 2017. I'm enriched with 8+ years of experience in IT industry. I specialize in helping people to learn most of the open-source technologies. I take great pride in the progress and success of my clients, and look forward to helping you. Get in touch to learn more.
+Hey, I am Avadhut and I have been working as a Corporate Trainer since 2017. I'm enriched with around 10 years of experience in IT industry. I specialize in helping people to learn most of the open-source technologies. I take great pride in the progress and success of my clients, and look forward to helping you. Get in touch to learn more.
 
 ### Solutions architect and consultant
 
